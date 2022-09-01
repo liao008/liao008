@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "8471cd7c6fe41588314fac13964098ad",
 # 模板消息id
-"template_id": "Y5kdGXJk5_CFfgAhYzFvbCs9SesPERbkOU1dPGR-ZUY",
+"template_id": "6Dae7iDjD4QfL8tZWOizec-HMLwW9ZPmyZ45-dX9HgI",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["o-uyZ5naur9n_CoRJQlx0S0eVmbY"],
 
